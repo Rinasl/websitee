@@ -1,0 +1,149 @@
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #2F4F4F;
+    }
+
+    .fixed {
+      background-image: url(https://clipart-library.com/images/8iAb8ykbT.gif);
+      color: #2F4F4F;
+      padding: 10px;
+      text-align: center;
+      font-size: 100px;
+    }
+
+    .container {
+      margin: 20px;
+    }
+
+    .p1 {
+      font-size: 35px;
+      color: #DA70D6 ;
+      text-shadow: black;
+    }
+
+    .p7, .p8, .p9{
+      font-size: 18px;
+      line-height: 1.5;
+      color: #C0C0C0;
+    }
+
+    
+
+    aside {
+      float: right;
+      width: 20%;
+      padding: 20px;
+      background-color: #eee;
+    }
+
+    .p3, .p4, .p5, .p6 {
+      font-size: 18px;
+      margin-bottom: 10px;
+      padding: 8px;
+      background: linear-gradient(cyan, teal);
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    .p2{
+       font-size: 18px;
+      margin-bottom: 10px;
+      padding: 8px;
+      background: linear-gradient(cyan, teal);
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+
+    }
+
+    .p3:hover, .p4:hover, .p5:hover, .p6:hover {
+      background-color: #555;
+    }
+.left-list{
+  padding: 0;
+  margin-bottom: 5px;
+  color: #C0C0C0;
+}
+a {
+  color: #FF00FF; 
+  text-decoration: none; 
+}
+
+a:hover {
+  text-decoration: underline; 
+}
+.p10, .p11, .p12, .p13{
+  color: white; 
+  text-decoration: none; 
+}
+
+a:hover {
+  text-decoration: underline; 
+}
+.instagram-button {
+  display: inline-block;
+  text-align: center;
+}
+
+.instagram-button a {
+  text-decoration: none;
+}
+
+.instagram-button img {
+  width: 50px; 
+  height: 50px;
+  justify-content: center;
+  padding: 10px 20px;
+  width: revert;
+  margin: auto;
+  display: block;
+  font-size: 4px;
+}
+.telegram-button {
+  display: inline-block;
+  text-align: center;
+}
+
+.telegram-button a {
+  text-decoration: none;
+}
+
+.telegram-button img {
+  width: 50px;
+  height: 50px;
+  padding: 10px 20px;
+  font-size: 4px;
+  width: revert;
+  margin: auto;
+  display: block;
+}
+.data{
+  font-size: 18px;
+      line-height: 1.5;
+      color: #C0C0C0;
+      text-align: left;
+      text-shadow: white;
+ }   
+ .youtube-button {
+  display: inline-block;
+  text-align: center;
+}
+
+.youtube-button a {
+  text-decoration: none;
+}
+
+.youtube-button img {
+  width: 50px;
+  height: 50px;
+  padding: 10px 20px;
+  font-size: 4px;
+  width: revert;
+  margin: auto;
+  display: block;
+}  
